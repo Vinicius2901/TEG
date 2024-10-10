@@ -1,0 +1,9 @@
+K5 é euleriano, pois todas as arestas são pares
+K2,3 é semi-euleriano
+Kn cubo é euleriano apenas para n par
+Octaedro é euleriano
+Kn é euleriano apenas para n par
+Kn,m é euleriano apenas para n e m pares semi-euleriano quando n=2 e m ímpar ou m = 2 e n par
+Grafo roda Wn não é euleriano em nehuma situação
+Resposta feita na linha 3
+aplicar Dijkstra para decidir as trilhas de tamanho mínimo e tentar montar grafo euleriano com ele
